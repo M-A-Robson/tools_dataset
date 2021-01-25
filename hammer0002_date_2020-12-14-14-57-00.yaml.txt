@@ -1,0 +1,24 @@
+- annotation_type: hammer_4_keypoint
+  date_time: 2020-12-14-14-57-00
+  keypoints:
+    lump:
+      position:
+      - 0
+      - 0
+      - 0
+    claw:
+      position:
+      - 0
+      - 114.2
+      - -35.5
+    handle_start:
+      position:
+      - 0
+      - 58.9
+      - 15.5
+    handle_end:
+      - 0
+      - 55.4
+      - -269.9
+  object_type: hammer
+  scene_name: hammer0002
